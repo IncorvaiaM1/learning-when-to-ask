@@ -1,0 +1,34 @@
+# Python / environments
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Local training inputs and generated artifacts
+/data/*
+!/data/README.md
+/checkpoints/
+/checkpoints_submitted/
+/runs/
+/output/
+*.pt
+*.pth
+*.pkl
+*.safetensors
+*.bin
+*.zip
+*.tgz
+*.log
+*.jsonl
+*.aux
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+# Evaluation files are generated locally; dev prompts stay private to this copy.
+/eval/mmlu_slice.jsonl

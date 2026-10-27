@@ -1,0 +1,31 @@
+{
+  "answerability_check_used": false,
+  "amb_judged_unanswerable_frac": 0.4030239833159541,
+  "clr_judged_answerable_frac": 0.4619395203336809,
+  "seeds": 2600,
+  "minimal_pairs_after_A": 1918,
+  "drops": {
+    "amb: judge disagrees": 171,
+    "amb: format": 600,
+    "clr: judge disagrees": 139,
+    "clr: format": 17
+  },
+  "per_bucket": {
+    "short": {
+      "ambiguous_avail": 163,
+      "clear_avail": 231,
+      "used_each": 163
+    },
+    "medium": {
+      "ambiguous_avail": 524,
+      "clear_avail": 758,
+      "used_each": 500
+    },
+    "long": {
+      "ambiguous_avail": 460,
+      "clear_avail": 773,
+      "used_each": 460
+    }
+  },
+  "total_pairs": 2246
+}

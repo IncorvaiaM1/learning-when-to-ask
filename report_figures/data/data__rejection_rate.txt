@@ -1,0 +1,1 @@
+Hand-verified 100 pairs: 13 rejected -> rejection rate 13.0%

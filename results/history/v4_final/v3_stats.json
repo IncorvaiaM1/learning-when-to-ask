@@ -1,0 +1,9 @@
+{
+  "clear_self_distilled": 373,
+  "clear_total": 1123,
+  "fallbacks": {
+    "hit token limit": 750
+  },
+  "alpaca": 259,
+  "arc_mcq": 300
+}
